@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "War in Ukraine: Checking Russian claims that Nato troops are present",
+            "description": "President Putin has said Western military advisors are actively involved in Ukraine.",
+            "url": "http://www.bbc.co.uk/news/62974506",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E7B7/production/_126791395_gettyimages-1423591439.jpg",
+            "publishedAt": "2022-09-21T10:52:19.6322563Z",
+            "content": "By Josh Cheetham &amp; Jake HortonBBC Reality Check\r\nRussian President Vladimir Putin says there are military units in Ukraine \"under the de-facto command of Western advisers\".\r\nClaims have also appe… [+5353 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war latest: Putin announces partial military mobilisation",
+            "description": "World leaders have condemned plans by Moscow’s proxy states in Ukraine to hold so-called referendums on joining Russia.",
+            "url": "http://www.bbc.co.uk/news/live/world-62970683",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2022-09-21T06:22:30.6641621Z",
+            "content": "Russian President Vladimir Putin is reportedly due to address the nation in the coming moments, and Western leaders are already condemning reports that he will announce annexation referendums in occu… [+902 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Emiliano Sala: Pilot told friend doomed plane was 'dodgy'",
+            "description": "The pilot heard a \"bang\" while flying the plane, as CCTV shows Emiliano Sala shortly before the crash.",
+            "url": "http://www.bbc.co.uk/news/uk-wales-62594529",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/150E8/production/_126784268_salaairportstill1.jpg",
+            "publishedAt": "2022-09-21T06:07:20.3512959Z",
+            "content": "By Kayley ThomasPresenter, Transfer: The Emiliano Sala Story\r\nMedia caption, WATCH: Exclusive CCTV footage, from Nantes Atlantique Airport, shows the last time Emiliano Sala and pilot David Ibbotson … [+4908 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Searching for justice in a 'narco-state'",
+            "description": "Honduran Ex-President Hernandez now sits in a US prison, but those left behind are still searching for justice from his brutal regime.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62960969",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF29/production/_126792175_p0d1hcv3.jpg",
+            "publishedAt": "2022-09-21T03:07:25.2891734Z",
+            "content": "Former Honduran President Juan Orlando Hernandez now sits in a US prison, but those left behind are still searching for justice from his brutal regime. \r\nOne of them - the mother of a student suspect… [+151 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Golden Globes returning to TV in 2023 after diversity row",
+            "description": "The award show was dropped by its US broadcaster last year over major diversity and ethics concerns.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62976650",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EC21/production/_126794406_gettyimages-1363723613.jpg",
+            "publishedAt": "2022-09-21T00:37:31.5546791Z",
+            "content": "The Golden Globes - dropped by its US broadcaster last year amid allegations of racism, sexism and conflicts of interest - will return to TV next year.\r\nThe annual Hollywood awards show was dumped by… [+2025 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Recession: Is the US heading into an 'ugly' downturn?",
+            "description": "With stocks tanking and grocery bills high, many Americans feel like the economy is in a recession.",
+            "url": "http://www.bbc.co.uk/news/business-62976318",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E771/production/_126794295_gettyimages-1241332610.jpg",
+            "publishedAt": "2022-09-21T00:37:23.1956694Z",
+            "content": "By Michelle FleuryNorth America Business correspondent, New York\r\nThree in five Americans say the US is in a recession, according to the latest Economist/YouGov poll. So how come it's not official?\r\n… [+4183 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US charges dozens with $250m pandemic relief fraud",
+            "description": "The accused allegedly used the proceeds to buy luxury cars and property in the US, Kenya and Turkey.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62976268",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FE19/production/_126794056_gettyimages-1425604003.jpg",
+            "publishedAt": "2022-09-20T22:22:19.9356533Z",
+            "content": "By James FitzGeraldBBC News\r\nUS prosecutors have charged 47 people in the largest Covid relief fraud scheme they have alleged to date. \r\nThe suspects are accused of stealing $250m (£220m) from a gove… [+1885 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Panel says US adults should get routine screening for anxiety",
+            "description": "The draft guidance comes amid a surge in mental health concerns following the Covid-19 pandemic.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62974686",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AB8F/production/_126791934_gettyimages-1327080394-1-1.jpg",
+            "publishedAt": "2022-09-20T20:37:21.7015432Z",
+            "content": "By Holly Honderichin Washington, DC\r\nFor the first time, a US government-backed expert panel has recommended that adults under 65 should be screened for anxiety disorders.\r\nThe influential US Prevent… [+3371 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US detentions at Mexico border pass two million a year for first time",
+            "description": "The rising number is a politically contentious issue ahead of the midterm elections in November.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62909392",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/183C7/production/_126717299_detainedmigrants.jpg",
+            "publishedAt": "2022-09-20T16:52:21.0142798Z",
+            "content": "By Bernd Debusmann Jrin Washington\r\nMore than two million migrants were detained at the US-Mexico border over the past year, a record figure that creates a political headache for the Biden administra… [+6916 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "UN alarm as Iran cracks down on anti-hijab protests sparked by woman's death",
+            "description": "Three people were reportedly killed on Monday at protests over the death in custody of Mahsa Amini.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-62967381",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14ABC/production/_126786648_mediaitem126786229.jpg",
+            "publishedAt": "2022-09-20T14:22:33.5137822Z",
+            "content": "By David GrittenBBC News\r\nThe UN has expressed alarm at Iranian authorities' response to protests sparked by the death in custody of a woman detained for breaking hijab laws.\r\nHuman rights groups sai… [+4296 chars]"
+        }
+    ]
+}
